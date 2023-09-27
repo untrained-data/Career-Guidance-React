@@ -28,7 +28,7 @@ const Header = () => {
             </li>
           </ul>
           <div className="start">
-            <div className="button">GET CERTIFICATE</div>
+            <div className="button">UPSCALE YOUR CAREER</div>
           </div>
         </nav>
       </header>

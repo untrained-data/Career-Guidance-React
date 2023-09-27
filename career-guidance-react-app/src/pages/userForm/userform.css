@@ -9,7 +9,7 @@
     padding-top: 20%;
 
     background-color: #4158D0;
-    background-image: linear-gradient(43deg, #345B91 0%, #8EB4E9 46%, #DBEAFE 100%);
+    background-image: linear-gradient(43deg, #345B91 0%, #8EB4E9 70%, #DBEAFE 100%);
 
 }
 
@@ -28,7 +28,7 @@
     font-size: 18px;
 }
 
-.input-div input{
+.input-div input , select{
     border: none;
     width: 100%;
     padding: 16px;
@@ -42,6 +42,11 @@
     transition: all 0.15s ease-in;
     font-weight: lighter;
 }
+
+.input-div select option{
+    color: black;
+}
+
 
 .input-div input:focus{
     /* box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.23) ; */

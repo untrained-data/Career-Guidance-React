@@ -15,7 +15,7 @@ export const Hero = () => {
     <section className="hero">
         <div className="container">
           <div className="row">
-            <Heading subtitle='WELCOME TO ACADEMIA' title='Best Online Education Expertise' />
+            <Heading subtitle='WELCOME TO CAREER LAUNCHER' title='Turning Ambitions into Achievements' />
             <div className="button">
               <button onClick={getStartedHandler}>
                 GET STARTED NOW 
